@@ -1,8 +1,7 @@
-# CRM Data Cleaning & Analysis (Internship Project)
+# CRM Data Cleaning & Analysis
 
-This project demonstrates the data cleaning, standardisation, and exploratory analysis workflow I used during my internship at a remittance and currency exchange company.
+This project demonstrates the data cleaning, standardisation, and exploratory analysis workflow at a remittance and currency exchange company.
 
-**All data used in this repository is anonymised or synthetic to protect company confidentiality.**
 
 ## Tools Used
 - SQL (JOIN, GROUP BY, HAVING)
