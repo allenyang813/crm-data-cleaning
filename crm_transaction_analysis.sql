@@ -1,5 +1,4 @@
 -- CRM & Transaction Analysis Queries (MySQL)
--- No real company data is included in this file
 
 -- Show each order with related customer, sender, receiver, and sales employee information
 SELECT
