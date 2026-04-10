@@ -1,4 +1,4 @@
-# CRM Data Cleaning & Analysis
+# Customer Activity Insights
 
 This project demonstrates the data cleaning, standardisation, and exploratory analysis workflow at a remittance and currency exchange company.
 
